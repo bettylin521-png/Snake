@@ -1,0 +1,6 @@
+{
+  "name": "經典貪食蛇 (Snake Game)",
+  "description": "一個使用 React、Canvas 和 TypeScript 建立的經典貪食蛇遊戲，具有流暢的動畫與響應式介面。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
